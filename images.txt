@@ -1,1 +1,1 @@
-postgres:15.3
+confluentinc/cp-kafka:7.5.1
